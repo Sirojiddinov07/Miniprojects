@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="083e903f-c4ce-4b2b-a544-9cd8ca9c5be1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Channels/templates/room.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DRFShop/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DRFShop/.idea/DRFShop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DRFShop/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DRFShop/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DRFShop/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DRFShop/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DRFShop/Pipfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DRFShop/Pipfile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DRFShop/conf/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DRFShop/conf/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DRFShop/conf/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DRFShop/conf/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DRFShop/conf/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DRFShop/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DRFShop/main/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DRFShop/main/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DRFShop/main/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DRFShop/main/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DRFShop/main/migrations/0002_order_shippingaddress_orderitem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DRFShop/main/migrations/0003_story_blogs_blogreview.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DRFShop/main/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DRFShop/main/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DRFShop/main/orderview.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DRFShop/main/product_view.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DRFShop/main/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DRFShop/main/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DRFShop/main/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DRFShop/main/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DRFShop/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DRFShop/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kids/main/urls.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2KRnzBkPLfNoBuEUjRIIeOVjzcu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="miniproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="083e903f-c4ce-4b2b-a544-9cd8ca9c5be1" name="Changes" comment="" />
+      <created>1673946526118</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673946526118</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
